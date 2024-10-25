@@ -1,7 +1,7 @@
 {
   "imports": {
-    "@ryoppippi/unocss-preset": "jsr:@ryoppippi/unocss-preset@^1.0.4",
-    "lume/": "https://deno.land/x/lume@v2.1.4/"
+    "lume/": "https://deno.land/x/lume@v2.1.4/",
+    "unocss": "npm:unocss@^0.63.6"
   },
   "lock": false,
   "tasks": {

@@ -120,7 +120,7 @@ Lume and with the NetlifyCMS.
     artifacts:
       baseDirectory: /_site
       files:
-        - '**/*'
+        - "**/*"
     cache:
       paths: []
   ```
