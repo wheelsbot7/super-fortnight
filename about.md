@@ -8,3 +8,5 @@ menu:
 ---
 
 I am a person that writes stuff.
+
+Specifically blog posts.
